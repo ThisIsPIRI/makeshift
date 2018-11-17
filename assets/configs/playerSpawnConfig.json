@@ -1,0 +1,7 @@
+{
+	"Space Shuttle": {
+		"hull": "makeshift:spaceShuttle",
+		"items": "core:smallShield-1 core:blaster-1",
+		"money": 20
+	}
+}

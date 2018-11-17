@@ -1,0 +1,11 @@
+{
+    "id" : "makeshift",
+    "version" : "0.1.0",
+    "displayName" : "Makeshift",
+    "description" : "Barely spaceworthy ships built out of relics of the past.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}
