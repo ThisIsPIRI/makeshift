@@ -3,5 +3,10 @@
 		"hull": "makeshift:spaceShuttle",
 		"items": "core:smallShield-1 core:blaster-1",
 		"money": 20
+	},
+	"Frail Titan": {
+		"hull": "makeshift:frailTitan",
+		"items": "core:smallShield-1 core:blaster-1 core:blaster-2",
+		"money": 50
 	}
 }
