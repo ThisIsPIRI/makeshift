@@ -1,0 +1,8 @@
+{
+    "projectile": "nuclearMissile",
+    "size": 1,
+    "price": 100,
+    "displayName": "Nuclear Missiles",
+    "plural": "nuclear missiles",
+    "iconName": "nuclearMissileClip"
+}
