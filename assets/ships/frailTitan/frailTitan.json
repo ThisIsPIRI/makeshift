@@ -2,7 +2,7 @@
 	"size": 1.5,
 	"maxLife": 11,
 	"type": "std",
-	"price": 60,
+	"price": 220,
 	"displayName": "Frail Titan",
 	"engine": "core:imperialEngine",
 	"gunSlots": [

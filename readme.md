@@ -11,5 +11,22 @@ Engine: Imperial Engine
 
 Gun slots: 1
 
+### Frail Titan
+Health: 11
+
+Price: 220
+
+Engine: Imperial Engine
+
+Gun slots: 2
+
+## List of Guns
+### Naval Gun
+Fixed: no
+
+Price: 400
+
+Clip: Slug Clip
+
 ## Credits
-Space Shuttle image: NASA (public domain)
+Images: NASA (public domain)

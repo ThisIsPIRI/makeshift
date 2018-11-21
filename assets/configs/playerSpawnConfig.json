@@ -6,7 +6,7 @@
 	},
 	"Frail Titan": {
 		"hull": "makeshift:frailTitan",
-		"items": "core:smallShield-1 core:blaster-1 core:blaster-2",
+		"items": "core:smallShield-1 makeshift:navalGun-1 makeshift:navalGun-2",
 		"money": 50
 	}
 }
