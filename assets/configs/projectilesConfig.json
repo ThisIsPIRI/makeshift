@@ -1,15 +1,15 @@
 {
 	"nuclearMissile": {
-		"dmg": 30,
+		"dmg": 32,
 		"dmgType": "explosion",
 		"spdLen": 1,
-		"physSize": 0.6,
+		"physSize": 0.5,
 		"guideRotSpd": 180,
 		"acceleration": 2,
 		"aoeRadius": 10,
 
 		"tex": "makeshift:nuclearMissile",
-		"texSz": 0.15,
+		"texSz": 0.35,
 		"texOrig": "-.5 0",
 		"lightSz": 0.25,
 

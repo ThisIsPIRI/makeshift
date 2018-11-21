@@ -6,7 +6,12 @@
 	},
 	"Frail Titan": {
 		"hull": "makeshift:frailTitan",
-		"items": "core:smallShield-1 makeshift:navalGun-1 makeshift:navalGun-2",
+		"items": "1*rep core:smallShield-1 makeshift:navalGun-1 makeshift:navalGun-2",
 		"money": 50
+	},
+	"Titanomachy": {
+		"hull": "makeshift:titanomachy",
+		"items": "6*rep core:advancedShield-1 makeshift:nuclearMissileLauncher-1 makeshift:navalGun-2",
+		"money": 500
 	}
 }

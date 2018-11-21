@@ -1,19 +1,19 @@
 {
 	"fixed": false,
-    "maxAngleVar": 2,
-    "angleVarDamp": 6,
-    "angleVarPerShot": 2,
-    "timeBetweenShots": 0.7,
-    "reloadTime": 3,
-    "price": 400,
-    "clipName": "core:slugClip",
-    "gunLength": 0.3,
-    "displayName": "Naval Gun",
-    "lightOnShot": false,
-    "shootSounds": [
-        "core:cannonShoot"
-    ],
-    "reloadSounds": [
-        "core:gunReload"
-    ]
+	"maxAngleVar": 2,
+	"angleVarDamp": 6,
+	"angleVarPerShot": 2,
+	"timeBetweenShots": 0.7,
+	"reloadTime": 3,
+	"price": 400,
+	"clipName": "core:slugClip",
+	"gunLength": 0.3,
+	"displayName": "Naval Gun",
+	"lightOnShot": false,
+	"shootSounds": [
+		"core:cannonShoot"
+	],
+	"reloadSounds": [
+		"core:gunReload"
+	]
 }
