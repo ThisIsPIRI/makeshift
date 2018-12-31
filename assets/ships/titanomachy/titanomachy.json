@@ -10,7 +10,7 @@
 			"position": "0.95 0.5",
 			"isUnderneathHull": false,
 			"allowsRotation": false
-		}
+		},
 		{
 			"position": "0.3 0.5",
 			"isUnderneathHull": true,

@@ -2,7 +2,7 @@
 	"nuclearMissile": {
 		"dmg": 32,
 		"dmgType": "explosion",
-		"spdLen": 1,
+		"speed": 1,
 		"physSize": 0.5,
 		"guideRotSpd": 180,
 		"acceleration": 2,
